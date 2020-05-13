@@ -109,3 +109,5 @@ class Crc32
     }
 }
    
+/* Nama: Sakip Arslan
+   NIM: 1814321004 */
