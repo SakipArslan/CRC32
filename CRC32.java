@@ -372,3 +372,6 @@ public class CRCCalculator {
 		return output;
 	}
 }
+
+/* Nama: Sakip Arslan
+   NIM: 1814321004 */
